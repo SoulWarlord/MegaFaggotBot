@@ -1,0 +1,11 @@
+{
+  "name": "sw-mega-bot",
+  "version": "1.0.0",
+  "description": "Mega Bot",
+  "main": "bot.js",
+  "author": "André Lascas",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  }
+}
